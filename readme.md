@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tungtaplamcoder</h1>
 <h3 align="center">I am an User interface designer and front-end developer</h3>
 
+![code](https://raw.githubusercontent.com/Tungtaplamcoder/Tungtaplamcoder/main/code-bg-sm2.jpg)
+
 - 🌱 I’m currently learning **PhP, C, C++, C#, Python,...**
 
 - 📫 How to reach me **lekhanhtungxp@gmail.com**
