@@ -23,7 +23,7 @@
 
 </p>
 
-<a>Watch my contribution graph get eaten by snake 🐍</a>
+<h3>Watch my contribution graph get eaten by snake 🐍</h3>
 
 ![snake gif](https://github.com/Tungtaplamcoder/Tungtaplamcoder/blob/output/github-contribution-grid-snake.svg)
 
