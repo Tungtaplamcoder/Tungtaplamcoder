@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tungtaplamcoder</h1>
+<h1 align="center">Hi 👋, I'm Tungtaplamcodera</h1>
 <h3 align="center">I am an User interface designer and front-end developer</h3>
 
 ![code](https://raw.githubusercontent.com/Tungtaplamcoder/Tungtaplamcoder/main/code-bg-sm2.jpg)
